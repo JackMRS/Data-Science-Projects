@@ -1,1 +1,2 @@
+## The "COVID Vaccine Public Approval Study.ipynb" is the final product. You can jump straight to it by clicking: https://github.com/JackMRS/Data-Science-Projects/blob/main/9.%20COVID%20Vaccine%20Approval%20Study/COVID%20Vaccine%20Public%20Approval%20Study.ipynb
 ## A web version of this study is avaliable at https://storymaps.arcgis.com/stories/2f4a17c6ac2049b0b7f23bad6532971f. The credit of creating the stroy-map website goes to my friend Kai Watanabe. You may need UCLA credentials to access the webpage.
